@@ -1,4 +1,4 @@
-# flutter_percentage_calculation
+# Flutter Percentage Calculation
 
 Youtube project which shows how to do complex percentage calculations for progress tracking applications.
 Learn how to calculate the percentage progress on a scale which has an initial and target value that can
